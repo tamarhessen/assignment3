@@ -1,0 +1,4 @@
+First I opened the file and saw that there was a function called give flag.
+The problem was the code will never enter that function. I went to hte exact place where
+the code skips over it and I changed the condition from jump equal to just not equal 
+so that the exact opposite of was was happening happens meanijg everytime I can get into the Function.
